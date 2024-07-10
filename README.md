@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santhosh Krishna K S</h1>
 <h3 align="center">Enthusiastic Electronics & Communication Engineering undergraduate with a passion for building innovative web applications. Skilled in React.js, Java (OOP), and Node.js, with a strong foundation in cloud platforms (Azure, Oracle Cloud) and containerization (Docker). Eager learner actively expanding skillset, including DevOps and Linux basics.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 - 💬 Ask me about **Tech**
 
 - 📫 How to reach me **santhoshkrishna771@gmail.com**
