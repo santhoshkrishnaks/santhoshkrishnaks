@@ -19,3 +19,6 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/santhoshkrishna771?theme=dark&font=Noto%20Sans%20Nushu&ext=contest)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshkrishnaks&show_icons=true&locale=en" alt="santhoshkrishnaks" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkrishnaks&" alt="santhoshkrishnaks" /></p>
